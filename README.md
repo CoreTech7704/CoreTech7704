@@ -21,7 +21,7 @@
 
 ### 📌 Featured Projects
 
-- 🔗 [**NewsApp**](https://github.com/CoreTech7704/newsapp): React app that fetches live headlines using NewsAPI with infinite scroll & category filtering.
+- 🔗 [**NewsApp**](https://github.com/CoreTech7704/newsapp): React app that fetches live headlines using API with infinite scroll & category filtering.
 - 🔗 [**TextUtils**](https://github.com/CoreTech7704/TextUtils): Text utility app with case conversion, space removal, and theme toggle.
 - 🔗 [**DES Algorithm Simulator**](https://github.com/CoreTech7704/DES_Algorithem): Visual simulation of the DES encryption process.
 - 🔗 [**Pari Travel Agency Website**](https://github.com/CoreTech7704/Pari-Agency): Static site for a local business using HTML, CSS, and JavaScript.
