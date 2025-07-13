@@ -21,6 +21,8 @@
 
 ### 📌 Featured Projects
 
+- 🔗 [**Swift News**](https://swiftnews.netlify.app): A professional React-based news app with category & country filters, infinite scroll, dark mode, and SEO support. 
+  ➡️ [GitHub Repository](https://github.com/CoreTech7704/swiftnews)
 - 🔗 [**NewsApp**](https://github.com/CoreTech7704/newsapp): React app that fetches live headlines using API with infinite scroll & category filtering.
 - 🔗 [**TextUtils**](https://github.com/CoreTech7704/TextUtils): Text utility app with case conversion, space removal, and theme toggle.
 - 🔗 [**DES Algorithm Simulator**](https://github.com/CoreTech7704/DES_Algorithem): Visual simulation of the DES encryption process.
@@ -28,7 +30,7 @@
 
 ---
 
-### 📫 How to reach me
+### 💌 How to reach me
 - LinkedIn: [Sarvam Patel](https://www.linkedin.com/in/sarvam-patel-89a414300/)
 - GitHub: [CoreTech7704](https://github.com/CoreTech7704)
 - Email: sarvampatel953@gmail.com
