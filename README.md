@@ -33,7 +33,6 @@
 ### 💌 How to reach me
 - LinkedIn: [Sarvam Patel](https://www.linkedin.com/in/sarvam-patel-89a414300/)
 - GitHub: [CoreTech7704](https://github.com/CoreTech7704)
-- Email: sarvampatel953@gmail.com
 
 ---
 
