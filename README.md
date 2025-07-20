@@ -1,6 +1,7 @@
 # 👋 Hey there, I'm Sarvam Patel
 
 🚀 Aspiring Full Stack Developer | React.js | JavaScript | Tailwind CSS  
+🌐 Portfolio: https://sarvamfolio.netlify.app
 🎓 Computer Engineering Student | SHRI SADVIDHYA MANDAL INSTITUTE OF TECH  
 💼 Open to Internships | Freelance Work | Collaboration  
 
@@ -21,6 +22,7 @@
 
 ### 📌 Featured Projects
 
+- 🔗 [**Portfolio Website**](https://github.com/CoreTech7704/Portfoliosite): A sleek, dark-themed portfolio built with React and Tailwind CSS, featuring project highlights, a contact form, and a responsive design with an animated hero section.
 - 🔗 [**Swift News**](https://swiftnews.netlify.app): A professional React-based news app with category & country filters, infinite scroll, dark mode, and SEO support. 
   ➡️ [GitHub Repository](https://github.com/CoreTech7704/swiftnews)
 - 🔗 [**NewsApp**](https://github.com/CoreTech7704/newsapp): React app that fetches live headlines using API with infinite scroll & category filtering.
