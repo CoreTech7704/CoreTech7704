@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Sarvam Patel
 
 🚀 Aspiring Full Stack Developer | React.js | JavaScript | Tailwind CSS  
-🌐 Portfolio: https://sarvamfolio.netlify.app
+🌐 Portfolio: https://sarvamfolio.netlify.app <br>
 🎓 Computer Engineering Student | SHRI SADVIDHYA MANDAL INSTITUTE OF TECH  
 💼 Open to Internships | Freelance Work | Collaboration  
 
