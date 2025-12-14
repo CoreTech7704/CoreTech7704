@@ -15,14 +15,22 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![EJS](https://img.shields.io/badge/-EJS-90A93A?style=flat&logo=ejs&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+
 
 ---
 
 ### 📌 Featured Projects
 
 - 🔗 [**Portfolio Website**](https://github.com/CoreTech7704/Portfoliosite): A sleek, dark-themed portfolio built with React and Tailwind CSS, featuring project highlights, a contact form, and a responsive design with an animated hero section.
+- 🔗 [**URL shortener**](https://github.com/CoreTech7704/URL-Shortener): A production-ready URL shortener built with Node.js, Express, and MongoDB, featuring authentication, role-based authorization, rate limiting, secure URL validation, and click analytics.
 - 🔗 [**Swift News**](https://swiftnews.netlify.app): A professional React-based news app with category & country filters, infinite scroll, dark mode, and SEO support. 
   ➡️ [GitHub Repository](https://github.com/CoreTech7704/swiftnews)
 - 🔗 [**NewsApp**](https://github.com/CoreTech7704/newsapp): React app that fetches live headlines using API with infinite scroll & category filtering.
