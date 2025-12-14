@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Sarvam Patel
 
-🚀 Aspiring Full Stack Developer | React.js | JavaScript | Tailwind CSS  | Node.js | Express.js | EJS
+🚀 Aspiring Full Stack Developer | React.js | JavaScript | Tailwind CSS  | Node.js | Express.js | EJS   
 🌐 Portfolio: https://sarvampatel.netlify.app <br>
 🎓 Computer Engineering Student | SHRI SADVIDHYA MANDAL INSTITUTE OF TECH  
 💼 Open to Internships | Freelance Work | Collaboration  
@@ -49,8 +49,9 @@
 ### 💌 How to reach me
 - LinkedIn: [Sarvam Patel](https://www.linkedin.com/in/sarvam-patel-89a414300/)
 - GitHub: [CoreTech7704](https://github.com/CoreTech7704)
+- Portfolio: https://sarvampatel.netlify.app
 
 ---
 
 ### ⚡ Fun Fact
-I love building UIs that feel smooth and intuitive, and I'm always excited to learn the next thing in tech!
+I focus on building intuitive, high-quality user experiences while continuously expanding my technical skill set.
