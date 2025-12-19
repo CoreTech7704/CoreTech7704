@@ -37,7 +37,7 @@
 
 - 🔗 [**Portfolio Website**](https://github.com/CoreTech7704/Portfoliosite): A sleek, dark-themed portfolio built with React and Tailwind CSS, featuring project highlights, a contact form, and a responsive design with an animated hero section.
 - 🔗 [**URL shortener**](https://github.com/CoreTech7704/URL-Shortener): A production-ready URL shortener built with Node.js, Express, and MongoDB, featuring authentication, role-based authorization, rate limiting, secure URL validation, and click analytics.
-- 🔗 [**Swift News**](https://swiftnews.netlify.app): A professional React-based news app with category & country filters, infinite scroll, dark mode, and SEO support. 
+- 🔗 [**Swift News**](https://swiftnews-zeta.vercel.app/): A professional React-based news app with category & country filters, infinite scroll, dark mode, and SEO support. 
   ➡️ [GitHub Repository](https://github.com/CoreTech7704/swiftnews)
 - 🔗 [**NewsApp**](https://github.com/CoreTech7704/newsapp): React app that fetches live headlines using API with infinite scroll & category filtering.
 - 🔗 [**TextUtils**](https://github.com/CoreTech7704/TextUtils): Text utility app with case conversion, space removal, and theme toggle.
