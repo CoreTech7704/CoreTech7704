@@ -19,8 +19,9 @@
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 
 #### 🧩 Frameworks & Libraries
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
+![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
 ![EJS](https://img.shields.io/badge/-EJS-90A93A?style=flat&logo=ejs&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
@@ -51,8 +52,8 @@
 ---
 
 ### 💌 How to reach me
-- LinkedIn: [Sarvam Patel](https://www.linkedin.com/in/sarvam-patel-89a414300/)
-- GitHub: [CoreTech7704](https://github.com/CoreTech7704)
+- ![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff) [Sarvam Patel](https://www.linkedin.com/in/sarvam-patel-89a414300/)
+- ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white) [CoreTech7704](https://github.com/CoreTech7704)
 - Portfolio: https://sarvampatel.netlify.app
 
 ---
